@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SA Tourism App</string>
+    <string name="WelcomeTitle">Welcome to SA Tourism App</string>
+    <string name="places">TextView</string>
+    <string name="province">Select Province:</string>
+    <string-array name="spinneroptions">
+        <item> Gauteng </item>
+        <item> Western Cape </item>
+        <item> KwaZulu Natal </item>
+        <item> Eastern Cape </item>
+        <item> Northern Cape </item>
+        <item> Mpumalanga </item>
+        <item> Limpopo </item>
+        <item> North West </item>
+        <item> Free State </item>
+    </string-array>
+</resources>
